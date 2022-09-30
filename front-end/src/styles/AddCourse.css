@@ -1,0 +1,46 @@
+.addAcad{
+    background-color: gray;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.head{
+    color:white;
+    margin-left: 45%;
+    padding-top:10px;
+    padding-bottom: 20px;
+}
+
+.row{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.left1{
+    float: left;
+    margin-left: 10%;
+    width: 20%;
+}
+
+.right1{
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.placeholder{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 15px;
+    margin-bottom: 20px;
+    width:auto;
+}
+
+#addCourse{
+    padding:7px 10px;
+    margin-left: 75%;
+    margin-bottom: 20px;
+    background-color: rgb(31, 147, 109);
+    border: 2px solid rgb(42, 212, 155);
+    border-radius: 2px;
+    color: white;
+}

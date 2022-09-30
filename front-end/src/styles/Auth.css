@@ -1,0 +1,27 @@
+.regsiter-form{
+    margin-left:20%;
+    margin-right: 20%;
+}
+
+.form-header{
+    background-color: rgb(65, 36, 1);
+    text-align: center;
+    color: white;
+    font-weight: 500;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.heading{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.takeInp{
+    padding-left: 30%;
+    font-size: 20px;
+}
+
+#loginButton{
+    margin-top: 20px;
+}

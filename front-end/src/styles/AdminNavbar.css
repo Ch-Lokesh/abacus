@@ -1,0 +1,32 @@
+.adminNav{
+    text-align: center;
+    background-color: rgb(32, 139, 15);
+    margin-top: 10px;
+    padding-top: 10px;
+    height: 40px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.ind{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.ele-left{
+    float: left;
+}
+
+.ele-right{
+    margin-right: 10%;
+    float: right;
+}
+
+.ele-mid{
+    margin: 0 auto;
+    display: inline-block;
+}
+
